@@ -1,1 +1,1 @@
-"# LangChain-application local Readme" 
+"# GAN local Readme" 
